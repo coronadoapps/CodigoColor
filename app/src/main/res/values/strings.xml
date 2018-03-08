@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codigo Color Resistor</string>
+    <string name="res">R = a b * c ± d% [Ω] </string>
+    <string name="calcular">CALCULAR</string>
+</resources>
